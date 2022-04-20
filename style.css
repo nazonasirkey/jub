@@ -12,3 +12,13 @@
     text-align: center;
     background-color: rgb(97, 80, 80);
 }
+@media (max-width: 600px) {
+    .form{
+        background-color: rgb(150, 150, 236);
+        text-align: center;
+    }
+    .contact{
+        background-color: brown;
+    }
+    
+}
