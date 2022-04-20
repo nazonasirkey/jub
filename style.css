@@ -7,6 +7,7 @@
     background-image: url(/images/eNvYUMn5_400x400.jpg) ;
     background-color: blueviolet;
     height: 600px;
+    width: 1290px;
 }
 .form{
     text-align: center;
@@ -14,11 +15,12 @@
 }
 @media (max-width: 600px) {
     .form{
-        background-color: rgb(150, 150, 236);
         text-align: center;
     }
     .contact{
-        background-color: brown;
-        text-align: center;
+        background-color: rgb(255, 189, 189);
+        height: 400px;
+        width: 300px;
+
     }   
 }
