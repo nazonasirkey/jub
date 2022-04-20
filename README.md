@@ -35,7 +35,7 @@
 
 * CSS - which was used to style the pages
 
-* javascript - for validation
+* javascript - for form validation
 
 ## Reference
 
