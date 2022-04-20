@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    background-image: url(/images/eNvYUMn5_400x400.jpg) ;
+    background-color: blueviolet;
+    height: 600px;
+}
+.form{
+    text-align: center;
+    background-color: rgb(97, 80, 80);
+}
