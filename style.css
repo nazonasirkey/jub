@@ -13,6 +13,7 @@
     background-color: rgb(97, 80, 80);
 }
 
+
 @media (max-width: 600px) {
     .form{
         text-align: center;
