@@ -4,8 +4,7 @@
 }
 
 .contact{
-    background-image: url("images/eNvYUMn5_400x400.jpg") ;
-    background-color: blueviolet;
+    background-image: url("images/eNvYUMn5_400x400.jpg");
     height: 600px;
     width: 1291px;
 }
@@ -18,7 +17,7 @@
         text-align: center;
     }
     .contact{
-        background-color: rgb(255, 189, 189);
+        text-align: center;
         height: 400px;
         width: 300px;
 
